@@ -40,3 +40,6 @@ Again for this segment i will quote dark breed as he has more insight in it then
 <h1>Error Offset above: 0x000001f04c9c3363</h1>
 this means a external app caused the crash (mostly trend micro, norton, avast, mcaffee but also some direct RAM capture stuff cause such crashes) the offset can massively change but so many characters is always a security breach by a third party software
 
+<h1>Error Offset above: Error offset: 0x0000000000234619</h1>
+this means a fault in the game files, clean reinstall or verifying the game files should fix this, try verify first, then reinstall, also restart after verifying the game files
+
