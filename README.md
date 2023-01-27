@@ -30,7 +30,7 @@ I heard some people struggle with epic games, i suggest trying after uninstallin
 You can also try to clean out your %temp% folder
 
 <h1>Error Offset between: 000000000100000 to 000000000200000</h1>
-Dark Breed: related to GPU driver and directx communications with the windows
+Dark Breed: "related to GPU driver and directx communications with the windows"
 
 <h1>Error Offset above: 000000000200000</h1>
 Again for this segment i will quote dark breed as he has more insight in it then me:
