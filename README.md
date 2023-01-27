@@ -43,3 +43,11 @@ this means a external app caused the crash (mostly trend micro, norton, avast, m
 <h1>Error Offset above: Error offset: 0x0000000000234619</h1>
 this means a fault in the game files, clean reinstall or verifying the game files should fix this, try verify first, then reinstall, also restart after verifying the game files
 
+<h1>Other possible fixes are:</h1>
+these will help but I still need to connect them to their fitting codes
+windows system check
+DISM.exe /Online /Cleanup-Image /Restorehealth
+after this
+sfc /scannow
+or also the dreaded gpu reinstallation
+if all this wont work the last staraw would be clean windows installation
