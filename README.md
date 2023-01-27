@@ -1,4 +1,4 @@
-# eldenringwhitescreen
+# Elden Ring White Screen Crash
 This is a small documentation in which I want to collect possible fixes for the white screen crash in elden ring.
 Throughout this document I will discuss the fixes I personally came across and what I did to fix them.
 When you want to add to this list or figure out what issue is the root of the problem i request you to search up the program "Reliability Monitor" click on your elden ring and check for the offset code.
@@ -23,7 +23,7 @@ If you have the newest update, use DDU to clean reinstall your nvidia drivers.
 <h1>Error offset: 0x0000000001e576bb</h1>
 This hints that you use Directx11 while the game needs Directx12, check if your pc is able to handle 12, because sometimes they wont despite advertised differently. If they cant I suggest refunding the game (sorry)
 
-<h1>000000000ffffff</h1>
+<h1>Error Offset something like: 000000000ffffff</h1>
 the f's in this case are placeholders, as this is where my exact codes end. From here I will mostly add what dark breed told me:
 "data and mostly caused by background apps that elevated apps to the wrong offset segment"
 I heard some people struggle with epic games, i suggest trying after uninstalling it
